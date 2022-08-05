@@ -1,0 +1,29 @@
+{
+  "name": "To-do-list",
+  "version": "1.0.0",
+  "description": "",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kl1ppel/To-do-list.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kl1ppel/To-do-list/issues"
+  },
+  "homepage": "https://github.com/kl1ppel/to-do-list#readme",
+  "devDependencies": {
+    "webpack": "^5.12.2",
+    "webpack-cli": "^4.3.1"
+  },
+  "dependencies": {
+    "colcade": "^0.2.0",
+    "date-fns": "^2.16.1",
+    "masonry-layout": "^4.2.2"
+  }
+}
